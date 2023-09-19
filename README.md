@@ -1,3 +1,4 @@
+Live site: https://kashish2908.github.io/task2-next-growth-labs-assessment/
 # task2-next-growth-labs-assessment
 Task 2: Next growth labs assessment - 
 Lazy Loading with Vanilla JS:  
